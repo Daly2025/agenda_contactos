@@ -42,7 +42,7 @@ th, td {
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: #626462;
     color: white;
 }
 
@@ -55,19 +55,19 @@ tr:nth-child(even) {
 }
 
 a.button.edit {
-    background-color: #4CAF50;
+    background-color: #6a6d6a;
 }
 
 a.button.edit:hover {
-    background-color: #45a049;
+    background-color: #949794;
 }
 
 a.button.delete {
-    background-color: #f44336;
+    background-color: #727070;
 }
 
 a.button.delete:hover {
-    background-color: #d32f2f;
+    background-color: #888282;
 }
 
 body {
