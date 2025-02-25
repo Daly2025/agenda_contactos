@@ -14,7 +14,7 @@ $contactos = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Lista de Contactos</h1>
+    <h1>LISTA DE CONTACTOS</h1>
     <a href="crear.php" class="button">Agregar Contacto</a>
     <table>
         <tr>
